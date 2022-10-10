@@ -1,6 +1,6 @@
 # iDashboard - Admin Panel 
 
-Quick Demo:
+Live Demo: https://i-dashboard.netlify.app/
 
 ![iDashboard - E-Commerce Admin Panel (1)](https://user-images.githubusercontent.com/101066358/194650422-5da301ac-65bd-4803-a6a2-a9e8cba262ae.gif)
 
