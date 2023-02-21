@@ -1,4 +1,4 @@
-# iDashboard - Admin Panel 
+# iDashboard - Administrative Panel 
 
 Live Demo: https://i-dashboard.netlify.app/
 
